@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\skillsinternationalschoolapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|solutionrelative:skillsinternationalschoolapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\skillsinternationalschoolapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|solutionrelative:skillsinternationalschoolapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\skillsinternationalschoolapp\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|solutionrelative:skillsinternationalschoolapp\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\skillsinternationalschoolapp\\viewdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|solutionrelative:skillsinternationalschoolapp\\viewdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\skillsinternationalschoolapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|solutionrelative:skillsinternationalschoolapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\skillsinternationalschoolapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|solutionrelative:skillsinternationalschoolapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|c:\\users\\m.c ramanayake\\source\\repos\\skillsinternationalschoolapp\\skillsinternationalschoolapp\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|solutionrelative:skillsinternationalschoolapp\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\skillsinternationalschoolapp\\viewdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|solutionrelative:skillsinternationalschoolapp\\viewdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\skillsinternationalschoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0094C4-4F74-4C02-8780-2E0D48708E9B}|SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp.csproj|solutionrelative:skillsinternationalschoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\ViewDetailsForm.cs",
+              "RelativeDocumentMoniker": "SkillsInternationalSchoolApp\\ViewDetailsForm.cs",
+              "ToolTip": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\ViewDetailsForm.cs",
+              "RelativeToolTip": "SkillsInternationalSchoolApp\\ViewDetailsForm.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwHQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:53:49.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\ViewDetailsForm.cs",
+              "RelativeDocumentMoniker": "SkillsInternationalSchoolApp\\ViewDetailsForm.cs",
+              "ToolTip": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\ViewDetailsForm.cs [Design]",
+              "RelativeToolTip": "SkillsInternationalSchoolApp\\ViewDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:50:50.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\Program.cs",
+              "RelativeDocumentMoniker": "SkillsInternationalSchoolApp\\Program.cs",
+              "ToolTip": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\Program.cs",
+              "RelativeToolTip": "SkillsInternationalSchoolApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:33:46.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "SkillsInternationalSchoolApp\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\LoginForm.Designer.cs",
+              "RelativeToolTip": "SkillsInternationalSchoolApp\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:32:47.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\App.config",
+              "RelativeDocumentMoniker": "SkillsInternationalSchoolApp\\App.config",
+              "ToolTip": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\App.config",
+              "RelativeToolTip": "SkillsInternationalSchoolApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-10T08:28:32.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SkillsInternationalSchoolApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\LoginForm.cs",
+              "RelativeToolTip": "SkillsInternationalSchoolApp\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:18:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "SkillsInternationalSchoolApp\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "SkillsInternationalSchoolApp\\RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:13:35.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SkillsInternationalSchoolApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "SkillsInternationalSchoolApp\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:12:18.287Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "SkillsInternationalSchoolApp\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\M.C Ramanayake\\source\\repos\\SkillsInternationalSchoolApp\\SkillsInternationalSchoolApp\\RegistrationForm.cs",
+              "RelativeToolTip": "SkillsInternationalSchoolApp\\RegistrationForm.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAIAwwCkBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:17:22.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

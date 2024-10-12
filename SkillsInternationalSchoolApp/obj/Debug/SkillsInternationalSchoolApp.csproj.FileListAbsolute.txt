@@ -1,0 +1,12 @@
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\bin\Debug\SkillsInternationalSchoolApp.exe.config
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\bin\Debug\SkillsInternationalSchoolApp.exe
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\bin\Debug\SkillsInternationalSchoolApp.pdb
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\obj\Debug\SkillsInternationalSchoolApp.csproj.AssemblyReference.cache
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\obj\Debug\SkillsInternationalSchoolApp.LoginForm.resources
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\obj\Debug\SkillsInternationalSchoolApp.Properties.Resources.resources
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\obj\Debug\SkillsInternationalSchoolApp.RegistrationForm.resources
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\obj\Debug\SkillsInternationalSchoolApp.csproj.GenerateResource.cache
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\obj\Debug\SkillsInternationalSchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\obj\Debug\SkillsInternationalSchoolApp.exe
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\obj\Debug\SkillsInternationalSchoolApp.pdb
+C:\Users\M.C Ramanayake\source\repos\SkillsInternationalSchoolApp\SkillsInternationalSchoolApp\obj\Debug\SkillsInternationalSchoolApp.ViewDetailsForm.resources
